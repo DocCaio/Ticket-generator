@@ -5,7 +5,7 @@
 ## Techs
 
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,ts,react,next,npm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,npm)](https://skillicons.dev)
 
 
 ## The project
