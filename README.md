@@ -12,3 +12,9 @@
 
 It's about ticket generator, you type your name and upload a photo and click on the button a personalized ticket will appear
 
+
+  # :hammer: Project features
+
+- `functionality `:
+- Responsive.
+- Criate your ticket
