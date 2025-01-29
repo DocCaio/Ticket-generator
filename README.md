@@ -18,3 +18,4 @@ It's about ticket generator, you type your name and upload a photo and click on 
 - `functionality `:
 - Responsive.
 - Criate your ticket
+- Upload an image
